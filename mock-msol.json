@@ -2,6 +2,6 @@
   "name": "Mock mSOL",
   "symbol": "mSOL",
   "description": "Mock Marinade Staked SOL for Devnet Testing",
-  "image": "https://raw.githubusercontent.com/Eronaeeell/solana-token-metadata/main/mock-msol.png",
+  "image": "https://raw.githubusercontent.com/Eronaeeell/solana-token-metadata/mock-msol.png",
   "decimals": 9
 }
